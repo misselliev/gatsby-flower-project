@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap');
 :root {
   --mainGreen: rgba(49, 175, 49, 0.938);
   --mainMagenta: rgba(207, 20, 176, 0.761);
@@ -9,11 +11,11 @@
 body {
   background: var(--mainWhite);
   color: var(--mainDark);
-  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+  font-family: 'Nanum Gothic', sans-serif !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Courgette', cursive;
   letter-spacing: 0.25rem!important;
 }
 
@@ -62,4 +64,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .footer {
   background: rgba(49, 175, 49, 0.4);
+}
+
+.menu {
+  background: var(--mainGrey);
 }

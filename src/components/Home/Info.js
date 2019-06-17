@@ -9,9 +9,15 @@ export default function Info() {
         <div className="row">
           <div className="col-10 col-sm-8 mx-auto text-center">
             <p className="lead text-muted mb-5">
-              Woof wooof wooof wooooof wof wof wooof wof wooooof wof wof wooof
-              wofwooooof wof wof wooof wof wooooof wof wof wooof wof wooooof wof
-              wof wooof wof wooooof wof wof wooof wooof
+              <p>Catering to your senses since 2018. </p>
+              <p>
+                We only support local farmers and only use fresh cut local
+                flowers.
+              </p>
+              <p>
+                Family owned bussiness that always goes the extra mile to make
+                your floral gift perfect.
+              </p>
             </p>
             <Link to="/about">
               <button className="btn text-uppercase btn-magenta">

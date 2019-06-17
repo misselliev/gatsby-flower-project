@@ -7,7 +7,7 @@ import BackgroundSection from "../components/Globals/BackgroundSection"
 import Info from "../components/Home/Info"
 const AboutPage = ({ data }) => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="About" />
     <BackgroundSection
       img={data.img.childImageSharp.fluid}
       title="About Us"
