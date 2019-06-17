@@ -1,10 +1,9 @@
 :root {
-  --mainGreen: #31af31;
-  --mainMagenta: #cf14b0c2;
+  --mainGreen: rgba(49, 175, 49, 0.938);
+  --mainMagenta: rgba(207, 20, 176, 0.761);
   --mainGrey: #ece8dc;
   --mainWhite: #fff;
   --mainDark: #222;
-  --Courgette: <link href="https://fonts.googleapis.com/css?family=Courgette&display=swap" rel="stylesheet">
 }
 
 body {
@@ -14,7 +13,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--Courgette) !important;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   letter-spacing: 0.25rem!important;
 }
 
@@ -31,4 +30,36 @@ h1, h2, h3, h4, h5, h6 {
 .square {
   width: 30px;
   height: 30px;
+}
+
+.tshadow {
+  text-shadow: 2px 2px 8px #1d1818;
+}
+
+.default-background, .about-background {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(rgba(49, 175, 49, 0.5), rgba(49, 175, 49, 0.5));
+  background-position: center;
+  background-size: cover;
+}
+
+.about-background {
+  min-height: 60vh;
+}
+
+.btn-magenta {
+  color: var(--mainMagenta);
+  border-color: var(--mainMagenta);
+}
+
+.btn-magenta:hover {
+  background: var(--mainMagenta);
+  color: var(--mainWhite);
+}
+
+.footer {
+  background: rgba(49, 175, 49, 0.4);
 }

@@ -1,3 +1,6 @@
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
 module.exports = {
   siteMetadata: {
     title: `Dulce Flowers`,
@@ -11,6 +14,14 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
+      },
+    },
+    {
+      resolve: `gatsby-source-contentful`,
+      options: {
+        spaceId: `5702kz86iyqv`,
+        // Learn about environment variables: https://gatsby.dev/env-vars
+        accessToken: `ZD66E5ulBw8QgvBTWVgK9V4MK7jKBEMyB3pz4cjjNgY`,
       },
     },
     `gatsby-transformer-sharp`,
