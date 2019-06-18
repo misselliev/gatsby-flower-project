@@ -1,10 +1,6 @@
 # Flower shop website
 
-Building a flower shop website with Gatsby.js
-
-# Currently working on
-
-Setting cart for purchases
+Building a flower shop website with Gatsby.js. This project also uses Contentful CMS and SnipCart for the shopping cart.
 
 # Live
 
