@@ -19,11 +19,6 @@ export default function Info() {
                 your floral gift perfect.
               </p>
             </p>
-            <Link to="/about">
-              <button className="btn text-uppercase btn-magenta">
-                About Page
-              </button>
-            </Link>
           </div>
         </div>
       </div>
