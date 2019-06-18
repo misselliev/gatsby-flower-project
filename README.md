@@ -4,7 +4,7 @@ Building a flower shop website with Gatsby.js
 
 # Currently working on
 
-Setting up flowers menu
+Setting cart for purchases
 
 # Live
 
