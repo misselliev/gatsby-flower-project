@@ -66,6 +66,6 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(49, 175, 49, 0.4);
 }
 
-.menu {
+.menu, .contact {
   background: var(--mainGrey);
 }

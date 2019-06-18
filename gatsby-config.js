@@ -24,6 +24,14 @@ module.exports = {
         accessToken: `ZD66E5ulBw8QgvBTWVgK9V4MK7jKBEMyB3pz4cjjNgY`,
       },
     },
+    {
+      resolve: "gatsby-plugin-snipcart",
+      options: {
+        apiKey:
+          "MGYwN2I2ZDQtMjQwMC00MzQ5LTkxYTQtMzg5NzkzMmYxZjQzNjM2OTY0MTcyOTIwNjE4NDQy",
+        autopop: true,
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
