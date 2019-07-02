@@ -11,3 +11,4 @@ You can look at the live version [here](https://gatsby-flower-project.netlify.co
 You can reach me at:
 
 - [Twitter](https://twitter.com/miss_elliev/)
+- [Dev.To](https://dev.to/misselliev)
