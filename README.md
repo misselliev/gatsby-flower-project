@@ -1,14 +1,57 @@
-# Flower shop website
+![beta development](https://img.shields.io/badge/beta-development-green?style=flat-square)
+![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
+
+# 💻 Dulce's flower shop (BETA)
 
 Building a flower shop website with Gatsby.js. This project also uses Contentful CMS and SnipCart for the shopping cart.
 
-# Live
+![alt text](docs/flowershop.png)
 
-You can look at the live version [here](https://gatsby-flower-project.netlify.com/)
+## ✨Live Demo
 
-# About
+You can look at it [here](https://gatsby-flower-project.netlify.com/)
 
-You can reach me at:
+## 🚀 Getting Started
 
+To get a local copy up and running follow these simple example steps.
+
+### Clone
+
+```sh
+git clone git@github.com:misselliev/gatsby-flower-project.git
+cd gatsby-flower-project
+```
+
+### Install
+
+```sh
+npm install
+```
+
+### Usage
+
+```sh
+npm run serve
+```
+
+## Author
+
+👤 Elizabeth Villalejos
+
+- [Github](https://github.com/misselliev)
+- [Linkedin](https://linkedin.com/ellievillalejos)
+- [Dev.to](https://dev.to/misselliev)
 - [Twitter](https://twitter.com/miss_elliev/)
-- [Dev.To](https://dev.to/misselliev)
+- [Instagram](https://www.instagram.com/miss_elliev/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+> “What simple action could you take today to produce a new momentum toward success in your life?” Tony Robbins
