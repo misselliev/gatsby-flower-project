@@ -43,6 +43,7 @@ npm run serve
 - [Dev.to](https://dev.to/misselliev)
 - [Twitter](https://twitter.com/miss_elliev/)
 - [Instagram](https://www.instagram.com/miss_elliev/)
+- [Email](mailto:elizabeth.villalejos@gmail.com?subject=Website%20Inquiry)
 
 ## 🤝 Contributing
 
