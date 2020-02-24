@@ -31,7 +31,7 @@ npm install
 ### Usage
 
 ```sh
-npm run serve
+gatsby develop
 ```
 
 ## Author
