@@ -9,7 +9,7 @@ Building a flower shop website with Gatsby.js. This project also uses Contentful
 
 ## ✨ Live Demo
 
-You can look at it [here](https://gatsby-flower-project.netlify.com/)
+You can look at it [here](https://gatsby-flower-project.netlify.com/).
 
 ## 🚀 Getting Started
 
@@ -35,7 +35,7 @@ gatsby develop
 ```
 
 ## :pencil2: Todo
-- Tests to be added
+- Tests to be added.
 
 ## Author
 
